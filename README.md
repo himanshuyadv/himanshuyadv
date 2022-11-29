@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @himanshuyadv
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Here+is+my+profile;Feel+free+to+connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hope+you+are+doing+Great;Feel+free+to+connect!)](https://git.io/typing-svg)
 - I’m an Android developer. I preferes Kotlin/Java language for app development.
 - Very interested and anthusiast about Android framework .
 - I’m looking to collaborate on Android projects.
