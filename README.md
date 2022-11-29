@@ -1,16 +1,12 @@
-### Hi there 👋
+[![ Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshuyadv&show_icons=true&theme=onedark&hide=prs)]
 
-<!--
-**himanshuyadv/himanshuyadv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @himanshuyadv
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Here+is+my+profile;Feel+free+to+connect!)](https://git.io/typing-svg)
+- I’m an Android developer. I preferes Kotlin/Java language for app development.
+- Very interested and anthusiast about Android framework .
+- I’m looking to collaborate on Android projects.
+- You can contact me on:
+      - himanshux688@gmail.com
+      - www.twitter.com/_4nshu
+      - https://www.linkedin.com/in/himanshuyadv
