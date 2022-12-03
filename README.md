@@ -9,5 +9,5 @@
 - You can contact me on:
       - himanshux688@gmail.com
       - www.twitter.com/_4nshu
-      - https://www.linkedin.com/in/himanshuyadv
+    
 
