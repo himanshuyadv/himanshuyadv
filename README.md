@@ -1,4 +1,4 @@
-[![ Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshuyadv&show_icons=true&theme=onedark&hide=prs)]
+![ Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshuyadv&show_icons=true&theme=onedark&hide=prs)
 
 - 👋 Hi, I’m @himanshuyadv
 
